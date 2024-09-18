@@ -5,3 +5,9 @@
 ```
 . ./init.sh
 ```
+
+## 02-feat: start
+
+```
+. ./start.sh
+```
